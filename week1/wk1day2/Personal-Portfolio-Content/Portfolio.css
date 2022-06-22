@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(187, 187, 187);
+    margin: 30px;
+}
+
+#person-img {
+    width: 20vw;
+}
+
+h1 {
+    text-shadow: 2px 2px red;
+}
+
+h3 {
+    margin: 10px 0;
+    text-shadow: 1px 1px red;
+}
+
+table, td, th {
+    margin: 3px;
+    border: 1px solid black;
+}
+
+th {
+    margin:5px;
+}
+
+.icon {
+    width: 20px;
+}
+
+#coding-img {
+    width: 60px;
+    border: 3px solid black;
+    padding: 5px;
+}
