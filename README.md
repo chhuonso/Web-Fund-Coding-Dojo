@@ -17,3 +17,9 @@
  <h2>Week1 - wk1day3<h2>
   Assignment - Button Up
   <img width="573" alt="Screen Shot 2022-06-22 at 10 43 33 PM" src="https://user-images.githubusercontent.com/103080113/175224398-6c1500a8-cb9f-4786-9ce3-1eae23599c65.png">
+
+  <h2>Week1 - wk1day2<h2>
+   Assignment - Plotting Our Blocks
+   <img width="952" alt="Screen Shot 2022-06-23 at 8 56 49 AM" src="https://user-images.githubusercontent.com/103080113/175343423-801add64-0c76-47c0-8283-4d21d851a580.png">
+
+   
