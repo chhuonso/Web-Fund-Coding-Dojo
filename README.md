@@ -25,7 +25,7 @@
    
 <h2>Week1 - wk1day2<h2>
    Assignment - Flex Our Blocks
-![Screen Shot 2022-06-23 at 11 55 52 AM](https://user-images.githubusercontent.com/103080113/175377103-05cf336e-4cfe-452f-8c99-ff18899fa6ff.png)
+<img width="1045" alt="Screen Shot 2022-06-23 at 12 56 04 PM" src="https://user-images.githubusercontent.com/103080113/175386333-fef7a576-58ec-421f-b2b7-a3dec5854e1d.png">
 
  
  
