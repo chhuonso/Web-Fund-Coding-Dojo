@@ -23,3 +23,14 @@
    <img width="952" alt="Screen Shot 2022-06-23 at 8 56 49 AM" src="https://user-images.githubusercontent.com/103080113/175343423-801add64-0c76-47c0-8283-4d21d851a580.png">
 
    
+<h2>Week1 - wk1day2<h2>
+   Assignment - Flex Our Blocks
+![Screen Shot 2022-06-23 at 11 55 52 AM](https://user-images.githubusercontent.com/103080113/175377103-05cf336e-4cfe-452f-8c99-ff18899fa6ff.png)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
