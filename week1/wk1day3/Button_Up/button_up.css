@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 50px;
+}
+
+div {
+    margin: 5px;
+}
+
+.oval-btn {
+    width: 10em;
+    height: 2em;
+    border: 2px solid rgb(0, 145, 145);
+    color: rgb(0, 145, 145);
+    background-color: lightgrey;
+    border-radius: 50px;
+}
+
+.plus-btn {
+    width: 1.2em;
+    height: 1.2em;
+    color: #fff;
+    background-color: #03D1B2;
+    border-radius: 50px;
+    font-size: 2em;
+    border: none ;
+}
+
+.shadow-btn {
+    width: 12em;
+    height: 2em;
+    background-color: #2B77E4;
+    font-size: 0.8em;
+    color: #fff;
+    box-shadow: 2px 3px black;
+}
