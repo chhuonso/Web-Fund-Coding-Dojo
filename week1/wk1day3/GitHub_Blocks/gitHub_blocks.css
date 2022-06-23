@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* outline: 1px solid black; */
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    width:10em;
+    margin: 20px;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    width: 700px;
+    height:180px;
+    margin: 20px;
+    justify-content: space-between;
+}
+
+.first {
+    background-color: aquamarine;
+
+}
+
+.second {
+    display: flex;
+    justify-content: space-around;
+    background-color: crimson;
+}
+
+.third {
+    background-color: blueviolet;
+
+}
