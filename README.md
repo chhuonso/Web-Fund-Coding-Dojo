@@ -18,17 +18,19 @@
   Assignment - Button Up
   <img width="573" alt="Screen Shot 2022-06-22 at 10 43 33 PM" src="https://user-images.githubusercontent.com/103080113/175224398-6c1500a8-cb9f-4786-9ce3-1eae23599c65.png">
 
-  <h2>Week1 - wk1day2<h2>
+  <h2>Week1 - wk1day3<h2>
    Assignment - Plotting Our Blocks
    <img width="952" alt="Screen Shot 2022-06-23 at 8 56 49 AM" src="https://user-images.githubusercontent.com/103080113/175343423-801add64-0c76-47c0-8283-4d21d851a580.png">
 
    
-<h2>Week1 - wk1day2<h2>
+<h2>Week1 - wk1day3<h2>
    Assignment - Flex Our Blocks
 <img width="1045" alt="Screen Shot 2022-06-23 at 12 56 04 PM" src="https://user-images.githubusercontent.com/103080113/175386333-fef7a576-58ec-421f-b2b7-a3dec5854e1d.png">
 
- 
- 
+ <h2>Week1 - wk1day3<h2>
+   Assignment - GitHub Blocks
+ <img width="783" alt="Screen Shot 2022-06-23 at 3 47 08 PM" src="https://user-images.githubusercontent.com/103080113/175427795-332e6e1b-a55b-4561-9de8-cfe5701fb097.png">
+
  
  
  
