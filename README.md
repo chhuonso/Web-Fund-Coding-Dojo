@@ -38,7 +38,7 @@ What you see here are my core assignments for CODING DOJO Web Fundamentals cours
    Assignment - Flex NavBar
  <img width="1044" alt="Screen Shot 2022-06-23 at 5 54 26 PM" src="https://user-images.githubusercontent.com/103080113/175438919-ee71f4a8-64e5-4a27-9bb1-f71c9bed9a7b.png">
 
- <h2>Week1 - wkday3<h2>
+ <h2>Week1 - wk1day3<h2>
    Assignment - Flex-ible Columns
    
    <h2>Full Size<h2>
@@ -49,4 +49,9 @@ What you see here are my core assignments for CODING DOJO Web Fundamentals cours
 
 <h2>Small Size<h2>
 <img width="499" alt="Screen Shot 2022-06-23 at 7 17 29 PM" src="https://user-images.githubusercontent.com/103080113/175451000-5daab038-24af-47bc-8ac1-51dd137566c7.png">
+
+
+<h2>Week1 - wk1day4<h2>
+  Assignment - User Card
+  <img width="766" alt="Screen Shot 2022-06-24 at 9 01 12 AM" src="https://user-images.githubusercontent.com/103080113/175618166-981a51c4-7cab-4360-9bfb-c245f2416956.png">
 
