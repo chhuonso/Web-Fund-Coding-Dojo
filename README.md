@@ -45,6 +45,6 @@
 <h2>Mid Size<h2>
 <img width="914" alt="Screen Shot 2022-06-23 at 7 17 10 PM" src="https://user-images.githubusercontent.com/103080113/175450965-ba995a86-2a86-4f86-826c-32b595bee03e.png">
 
-<h2>Samll Size<h2>
+<h2>Small Size<h2>
 <img width="499" alt="Screen Shot 2022-06-23 at 7 17 29 PM" src="https://user-images.githubusercontent.com/103080113/175451000-5daab038-24af-47bc-8ac1-51dd137566c7.png">
 
