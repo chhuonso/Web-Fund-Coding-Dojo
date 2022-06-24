@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* outline:1px solid black; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+.warp {
+    position: absolute;
+    flex-direction: column;
+    top: 68px;
+    padding-left: 20px;
+}
+
+.container {
+    display: flex;
+    width: 600px;
+    height: 300px;
+    flex-direction: column;
+    border: 2px solid black;
+}
+
+#rectangle {
+    width: auto;
+    height: 80px;
+    background-color: darkcyan;
+}
+
+#user-img {
+    width: 5em;
+    border: 2px solid white;
+    border-radius: 50%;
+    outline:2px solid black;
+}
+
+.gear-map {
+    width: 10px;
+    margin: 3px;
+}
+
+span {
+    font-size: 20px;
+    margin-left: 5px ;
+}
+
+.border-right {
+    border-right: 2px solid black;
+}
+
+th {
+    padding: 2px;
+}
+
+h4 {
+    margin: 5px;
+}
