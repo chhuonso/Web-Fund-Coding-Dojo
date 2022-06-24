@@ -1,5 +1,7 @@
 # Web-Fund-Coding-Dojo
- These are sample of each files starting from day 1 with Coding Dojo in Web Fundamentals  if its not up here in the read me files. Just ignore lol lots of practice and testing in those files. 
+Hello and welcome to my README.✌🏽❤️
+What you see are my core assignments for CODING DOJO Web Fundamentals course
+ These are sample of each files starting from day 1 with Coding Dojo in Web Fundamentals. If its not here in the README, Please ignore those files 😂. There just practice and testing. 
 
 <h2>Week1 - wk1day1</h2>
  Assignment- Registration Form
