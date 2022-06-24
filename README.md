@@ -32,7 +32,9 @@
  <img width="783" alt="Screen Shot 2022-06-23 at 3 47 08 PM" src="https://user-images.githubusercontent.com/103080113/175427795-332e6e1b-a55b-4561-9de8-cfe5701fb097.png">
 
  
- 
- 
+ <h2>Week1 - wk1day3<h2>
+   Assignment - Flex NavBar
+ <img width="1044" alt="Screen Shot 2022-06-23 at 5 54 26 PM" src="https://user-images.githubusercontent.com/103080113/175438919-ee71f4a8-64e5-4a27-9bb1-f71c9bed9a7b.png">
+
  
  
