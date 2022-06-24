@@ -36,5 +36,15 @@
    Assignment - Flex NavBar
  <img width="1044" alt="Screen Shot 2022-06-23 at 5 54 26 PM" src="https://user-images.githubusercontent.com/103080113/175438919-ee71f4a8-64e5-4a27-9bb1-f71c9bed9a7b.png">
 
- 
- 
+ <h2>Week1 - wkday3<h2>
+   Assignment - Flex-ible Columns
+   
+   <h2>Full Size<h2>
+   <img width="1439" alt="Screen Shot 2022-06-23 at 7 16 37 PM" src="https://user-images.githubusercontent.com/103080113/175450811-8a952d0d-fe41-4321-b0f8-02542dbc9ce9.png">
+
+<h2>Mid Size<h2>
+<img width="914" alt="Screen Shot 2022-06-23 at 7 17 10 PM" src="https://user-images.githubusercontent.com/103080113/175450965-ba995a86-2a86-4f86-826c-32b595bee03e.png">
+
+<h2>Samll Size<h2>
+<img width="499" alt="Screen Shot 2022-06-23 at 7 17 29 PM" src="https://user-images.githubusercontent.com/103080113/175451000-5daab038-24af-47bc-8ac1-51dd137566c7.png">
+
