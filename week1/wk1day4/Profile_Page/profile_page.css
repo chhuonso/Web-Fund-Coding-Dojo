@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* outline: 1px solid chartreuse; */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+/* *********** NavBar section ************* */
+
+
+.navbar {
+    height: 60px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    color: aliceblue;
+    align-items: center;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links ul {
+    display: flex;
+    margin:0 30px;
+    list-style-type: none;
+}
+
+li {
+    margin: 0 2em;
+}
+
+.link {
+    color:rgb(187, 187, 187);
+    text-decoration: none;
+}
+
+.btn {
+    background-color:#17A2B8;
+    color: #fff;
+    padding: 0 1em;
+    height: 25px;
+}
+
+#highlight {
+    color: #fff;
+}
+
+
+
+/* *********** Main Content section ************ */
+/* User card section */
+.main-container {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.warp {
+    position: absolute;
+    flex-direction: column;
+    top: 120px;
+    padding-left: 20px;
+}
+
+.card-container {
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+    line-height: 28px;
+}
+
+#rectangle {
+    width: auto;
+    height: 80px;
+    background-color: #17A2B8;
+}
+
+#user-img {
+    width: 5em;
+    border: 2px solid white;
+    border-radius: 50%;
+    outline:2px solid black;
+}
+
+.gear-map {
+    width: 13px;
+}
+
+span {
+    font-size: 20px;
+    margin-left: 5px ;
+}
+
+h5 {
+    margin: 5px;
+}
+
+#edit-anchor {
+    font-size: 12px;
+}
+
+/* ********** Inside Main Skills cntainer ************ */
+h3 {
+    background-color: #333333;
+    color: white;
+    padding: 0.6em;
+}
+
+.skills-container {
+    width: 400px;
+    height: 200px;
+    margin:30px  30px 0 0;
+    border: 2px solid black;
+}
+
+#skill-description {
+    margin: 20px;
+    line-height: 30px;
+}
+
+
+/* ******** Right Side Main content ********* */
+.right-section {
+    width: 240px;
+}
+
+.right-container {
+    margin-bottom: 30px;
+    border: 2px solid black;
+}
+
+.flex-div {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    flex: 1;
+}
+
+.user-detail {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+}
+.user-circle {
+    width: 2.3em;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.icon-circle {
+    width: 1.8em;
+    margin-right: 5px;
+    
+}
+
+
+#view-more {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px 10px;
+    border-top: 2px solid black;
+}

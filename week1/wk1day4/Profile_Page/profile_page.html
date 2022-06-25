@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Page</title>
+    <link rel="stylesheet" href="./profile_page.css">
+</head>
+<body>
+    <!-- Navbar section -->
+    <div class="navbar">
+        <div class="navbar-container">
+            <h1>Profile</h1>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="#" class="link">Home</a></li>
+                    <li><a href="#" class="link" id="highlight">My Profile</a></li>
+                    <li><a href="#"class="link">Find Connections</a></li>
+                </ul>
+            </div>
+        </div>
+        <button class="btn">Sign Out</button>
+    </div>
+    <!-- Main content section -->
+    <div class="main-container">
+        <div class="left-section">
+            <div class="card-container">
+                <div id="rectangle"></div>
+                <div class="warp">
+                    <img src="./images/jane-m.jpg" alt="user icon" id="user-img">
+                    <h2>Jane Doe</h2>
+                    <img src="./icons/map-marker.png" alt="Map Marker" class="gear-map">
+                    <span>Seattle</span>
+                    <h5>Developer | Engineer | Problem Sovler</h5>
+                    <h5>Master of Shadows and the Internet!</h5>
+                    <img src="./icons/gear.png" alt="Gear Icon" class="gear-map gear">
+                    <a href="#" id="edit-anchor">edit profile</a>
+                </div>
+            </div>
+            <div class="skills-container">
+                <h3 class="title">Education</h3>
+                <div id="skill-description">
+                    <h4>Coding Dojo - Full Stack Bootcamp</h4>
+                    <p>Dec 2019 - Mar 2020</p>
+                    <p><strong>Triple black belt in Python, MERN, and C#...</strong></p>
+                </div>
+            </div>
+        </div>
+        <div class="right-section">
+            <div class="right-container">
+                <h3 class="title">Connection Requests</h3>
+                <div class="user-detail">
+                    <div class="flex-div">
+                        <img src="./images/todd-s.jpg" alt="User Todd" class="user-circle">
+                        <p>Todd E</p>
+                    </div>
+                    <div>
+                        <img src="./icons/accept-circle.png" alt="+ symbol" class="icon-circle">
+                        <img src="./icons/close-circle.png" alt="- symbol" class="icon-circle">
+                    </div>
+                </div>
+                <div class="user-detail">
+                    <div class="flex-div">
+                        <img src="./images/phil-s.jpg" alt="User Phil" class="user-circle">
+                        <p>Phil K</p>
+                    </div>
+                    <div>
+                        <img src="./icons/accept-circle.png" alt="+ symbol" class="icon-circle">
+                        <img src="./icons/close-circle.png" alt="- symbol" class="icon-circle">
+                    </div>
+                </div>
+            </div>
+            <div class="right-container">
+                <h3 class="title">Your Connection</h3>
+                <div class="user-detail">
+                    <div class="flex-div">
+                        <img src="./images/adrien-s.jpg" alt="User Adrien" class="user-circle">
+                        <p>Adrien D</p>
+                    </div>
+                </div>
+                <div class="user-detail">
+                    <div class="flex-div">
+                        <img src="./images/anne-s.jpg" alt="User Anne" class="user-circle">
+                        <p>Anne J</p>
+                    </div>
+                </div>
+                <div class="user-detail">
+                    <div class="flex-div">
+                        <img src="./images/alayne-s.jpg" alt="User Alayne" class="user-circle">
+                        <p>Alayne T</p>
+                    </div>
+                </div>
+                <div class="user-detail">
+                    <div class="flex-div">
+                        <img src="./images/arry-s.jpg" alt="User Arry" class="user-circle">
+                        <p>Arry Y</p>
+                    </div>
+                </div>
+                <div id="view-more">
+                    <a href="#">View more</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
