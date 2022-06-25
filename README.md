@@ -55,3 +55,6 @@ What you see here are my core assignments for CODING DOJO Web Fundamentals cours
   Assignment - User Card
   <img width="766" alt="Screen Shot 2022-06-24 at 9 01 12 AM" src="https://user-images.githubusercontent.com/103080113/175618166-981a51c4-7cab-4360-9bfb-c245f2416956.png">
 
+<h2>Week1 - wk1day4<h2>
+  Assignment - Profile Page
+ <img width="990" alt="Screen Shot 2022-06-24 at 11 23 20 PM" src="https://user-images.githubusercontent.com/103080113/175761341-59b0ffe9-52a0-4d87-8b34-a270deb43791.png">
