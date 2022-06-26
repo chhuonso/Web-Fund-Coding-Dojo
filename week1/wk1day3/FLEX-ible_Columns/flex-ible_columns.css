@@ -1,9 +1,15 @@
+/* CSS reset */
 * {
     margin: 0;
     padding: 0;
-    /* outline: 1px solid black; */
-}
-
+    box-sizing: border-box;
+  }
+      
+  /* Fixed width container class that will "auto-center" itself */
+  .container {
+    width: 1200px;
+    margin: 20px auto;
+  }
 
 .row {
     background-color: rgb(255, 0, 0);
@@ -16,5 +22,5 @@
     padding: 20px;
     margin: 10px;
     background-color: aquamarine;
-}
+} 
 
