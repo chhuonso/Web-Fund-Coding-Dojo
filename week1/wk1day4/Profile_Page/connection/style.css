@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 1px solid greenyellow;
+}
+
+.container {
+   width: 300px;
+   border: 2px solid black;
+}
+
+.flex-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}   
+
+ul {
+    display: flex;
+    align-items: center;
+}
+
+li {
+    display: flex;
+    padding: 7px;
+}
+
+h2 {
+    background-color: black;
+    color: aliceblue;
+}
+
+img {
+    width: 2.5em;
+    border-radius: 50%;
+}
