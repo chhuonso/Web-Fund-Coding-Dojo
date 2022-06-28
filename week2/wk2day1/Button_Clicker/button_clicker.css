@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* outline: 1px solid rgb(183, 255, 0); */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 0 20px;
+}
+/* NavBar section  */
+#main-container {
+    width: 100%;
+}
+
+#login-btn,#search-bar {
+    padding: 5px 25px;
+
+}
+
+#login-btn {
+    background-color: rgb(13, 62, 185);
+    color: white;
+    box-shadow: 4px 4px black;
+}
+
+ul {
+    background-color: grey;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    align-self: center;
+    list-style-type: none;
+}
+
+
+ /* Middle content main-box */
+#main-box {
+    height: 600px;
+    display: flex;
+    justify-content:center;
+}
+
+.left-content {
+    margin: 20px 0;
+    display: flex; 
+    border: 2px solid black;
+    height: 150px;
+    padding: 0 20px;
+    align-items: center;
+}
+
+.left-box{
+    line-height: 10px;
+}
+
+.right-content {
+    margin: 20px 0 0 20px;
+    height: 130px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    padding: 10px;
+}
+
+.like-btn {
+    width: 80px;
+    height: 30px;
+    background-color: rgb(220, 165, 69);
+    box-shadow: 3px 3px black;
+}
+
+button {
+    cursor: pointer;
+}
+
+#def-btn {
+    width: 130px;
+    padding: 2px 1em;
+    align-self: center;
+    background-color: rgb(138, 221, 138);
+    box-shadow: 3px 3px black;
+}
+
+.popup-container{
+    background-color: white;
+    width: 150px;
+    visibility: hidden;
+    border: 2px solid black;
+    border-radius: 15%;
+    position: fixed;
+    padding: 10px;
+    top: 30px;
+    left: 20em;
+}
+
+#popup{
+    text-align: center;
+    border-top: 2px solid black;
+    margin-top: 5px;
+    padding-top: 10px;
+}
