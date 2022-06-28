@@ -58,3 +58,13 @@ What you see here are my core assignments for CODING DOJO Web Fundamentals cours
 <h2>Week1 - wk1day4<h2>
   Assignment - Profile Page
  <img width="990" alt="Screen Shot 2022-06-24 at 11 23 20 PM" src="https://user-images.githubusercontent.com/103080113/175761341-59b0ffe9-52a0-4d87-8b34-a270deb43791.png">
+
+ 
+ 
+ <h1>WEEK 2<h1>
+
+<h2>Week2 - wk2day1<h2>
+  Assignment - Button Clicker
+ <img width="850" alt="Screen Shot 2022-06-27 at 10 13 02 PM" src="https://user-images.githubusercontent.com/103080113/176097965-bd512b1a-b03e-4b43-b1dd-deabb75a0a15.png">
+
+ 
