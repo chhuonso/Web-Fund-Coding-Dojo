@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./likes.css">
+    <title>Likes</title>
+</head>
+<body>
+    <div id="container">
+        <div id="header">
+            <h1>Newtwork</h1>
+            <h2 id="highlight">Your Feed</h2>
+        </div>
+        <div id="card-container">
+        <div id="box-content">
+                <div id="left-col">
+                    <img src="./icons/user-circle.png" alt="">
+                    <p><a href="#">Add an avatar</a></p>
+                    <h3>James Doe</h3>
+                </div>
+                <div id="right-col">
+                    <div class="card">
+                        <div class="info">
+                            <h2>Neil M</h2>
+                            <h3><span id="number1">9</span> likes(s)</h3>
+                            <button class="btn" onclick="likeUpdate1('#number1')">Like</button>
+                        </div>
+                        <div class="text">
+                            <h3> I just set up this new discord bot, let me know what you think. <a href="#">link</a></h3>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="info">
+                            <h2>Nichole K</h2>
+                            <h3><span id="number2">12</span> likes(s)</h3>
+                            <button class="btn" onclick="likeUpdate2('#number2')">Like</button>
+                        </div>
+                        <div class="text">
+                            <h3> just finished my <a href="#">next comic</a>, check it out.</h3>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="info">
+                            <h2>Some User</h2>
+                            <h3><span id="number3">9</span> likes(s)</h3>
+                            <button class="btn" onclick="likeUpdate3('#number3')">Like</button>
+                        </div>
+                        <div class="text">
+                            <h3> This is some filter text, it can say anything we like</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+
+
+    <script src="./likes.js"></script>
+</body>
+</html>
