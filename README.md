@@ -68,3 +68,8 @@ What you see here are my core assignments for CODING DOJO Web Fundamentals cours
  <img width="850" alt="Screen Shot 2022-06-27 at 10 13 02 PM" src="https://user-images.githubusercontent.com/103080113/176097965-bd512b1a-b03e-4b43-b1dd-deabb75a0a15.png">
 
  
+<h2>Week2 - wk2day1<h2>
+  Assignment - Video Preview
+ <img width="1426" alt="Screen Shot 2022-06-28 at 6 30 00 PM" src="https://user-images.githubusercontent.com/103080113/176332114-138efe13-4446-48c5-9f5c-597eac70c7f0.png">
+
+ 
