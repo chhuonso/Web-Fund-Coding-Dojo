@@ -76,3 +76,14 @@ What you see here are my core assignments for CODING DOJO Web Fundamentals cours
   Assignment - Likes
 <img width="893" alt="Screen Shot 2022-06-28 at 11 43 52 PM" src="https://user-images.githubusercontent.com/103080113/176369469-064d8fad-c267-4742-b474-3bf6b5d3444e.png">
 
+ <h2>Week2 - wk2day4<h2>
+  Assignment - Dojo Weather
+  <img width="1072" alt="Screen Shot 2022-06-30 at 9 13 32 PM" src="https://user-images.githubusercontent.com/103080113/176822341-fe7d302c-3a1d-466f-ae50-6a4bff97f0ad.png">
+
+
+
+
+  
+  
+  
+  
